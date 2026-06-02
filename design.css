@@ -8,6 +8,6 @@
     background-repeat: no-repeat;  /* Prevents the image from tiling */
     
     /* Set dimensions for the element so the image is visible */
-    width: 100%;
+    width: 20%;
     height: 300px;
 }
