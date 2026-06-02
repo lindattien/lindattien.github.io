@@ -1,6 +1,6 @@
 .hero-banner {
     /* Path to your image file */
-    background-image: url('lindattien.github.io/14.png');
+    background-image: url('https://github.com/lindattien/lindattien.github.io/blob/91eccb704f8a72d3b5c751796da1c25b1147981b/14.png');
     
     /* Optional: Control how the image behaves */
     background-size: cover;        /* Scales the image to fill the element */
